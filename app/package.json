@@ -1,0 +1,6 @@
+{
+  "_comment": "Below is a list of dependencies, which is imported using npm install.",
+  "dependencies": {
+    "mongoose": "4.0.3"
+  }
+}
