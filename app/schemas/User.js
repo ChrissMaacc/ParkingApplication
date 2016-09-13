@@ -19,5 +19,5 @@ module.exports =
 				Plate: { type: String, lowercase: true}
 			}
 		},
-		Transactions: [Transaction.categorySchema]
+		Transactions: [Transaction]
 	});
