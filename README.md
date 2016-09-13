@@ -9,7 +9,7 @@
 Parking Spots poorly reflect the demand for them resulting in a bimodal distrubtion of available parking. Some lots/streets are very densely populated and some are extremely vacant. It would benefit everyone if the prices could vary, theoretically leaving 1 parking spot on every street and every lot. 
 
 ###Purpose: 
-**- The real *purpose*, to build a solid MEAN stack application for which to reference for future apps and enhance the developers skills**
+- **The real *purpose*, to build a solid MEAN stack application for which to reference for future apps and enhance the developers skills**
 - Also to retrofit QR codes on Parking Meters for which Users can scan and pay for the meter.
 
 ###Rough Requirements(TO BE UPDATED):
