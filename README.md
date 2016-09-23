@@ -23,4 +23,7 @@ Parking Spots poorly reflect the demand for them resulting in a bimodal distrubt
 - *Angular* Views for Users / Admins / Meter Officers
 - *Ionic* (Export *iOS* / *Android* Application)
 
+###Running Instructions:
+ // TODO 
+
 
