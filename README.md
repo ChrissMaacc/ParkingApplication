@@ -1,4 +1,4 @@
-# ParkingApplication
+# ParkingApplicatin
 
 ## Web Application to Emulate a Digital Parking Meter
 
