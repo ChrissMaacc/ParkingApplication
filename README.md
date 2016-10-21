@@ -1,5 +1,4 @@
 # ParkingApplicatin
-
 ## Web Application to Emulate a Digital Parking Meter
 
 ###Recent Events:
